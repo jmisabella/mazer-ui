@@ -1,0 +1,10 @@
+[package]
+name = "mazer-ui"
+version = "0.0.1"
+authors = ["Jeffrey Isabella <jeff.isabella@gmail.com>"]
+edition = "2021"
+license = "Apache-2.0"
+description = "Binary for visually rendering mazes and solutions of those mazes of various algorithms and grid types"
+repository = "https://github.com/jmisabella/mazer-ui"
+
+[dependencies]
